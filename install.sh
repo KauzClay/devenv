@@ -41,7 +41,6 @@ apt-get install -yq \
   libyaml-dev \
   lsb-release \
   mosh \
-  npm \
   openconnect \
   python3-pip \
   ripgrep \
